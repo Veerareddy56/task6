@@ -17,7 +17,7 @@ transition-timing-function: ease;
 }
 p{
     font-size: 50px;
-    padding-left: 80px;
+    padding-left: 30px;
     opacity:0;
     position:absolute;
 }
